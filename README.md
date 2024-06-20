@@ -62,10 +62,13 @@ notation and how the Tweego compiler works (a kind of markup that Twine uses to 
 an environment outside of the familiar Twine editor, as well as basic
 knowledge of Git and Github.
 
-Twee 3 files can be modified and committed in a fork of this repo used as a
+Twee 3 files (with `.twee` or `.tw` extensions) can be modified and committed in a fork of this repo used as a
 template. They can be modified in the GitHub repo interface itself
 ——perhaps directly, or copied and pasted from elsewhere, for instance a
-common Google Doc—— and committed.
+common Google Doc—— and committed. If using this repo as a template, the
+story will be compiled to html and published automatically via a GitHub
+action. To do this, however, the GiHub Pages must be configured in the
+repo. Follow [Emilia Lazer-Walker's great tutorial](https://dev.to/lazerwalker/a-modern-developer-s-workflow-for-twine-4imp) for more guidance on this.
 
 ### An even less simple way
 
