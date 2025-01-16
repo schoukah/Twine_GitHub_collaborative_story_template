@@ -8,7 +8,7 @@
  well as other editors or working
  suites such as Google's.
 
- ## Welcome 💫
+ ## So Welcome 💫
 
  Here are different ways to make this work. Will keep suggesting and
  refining as we go... 
@@ -17,7 +17,7 @@
 
  ## Asynchronously 📖
 
- Here's one way this could work. This collaboration mode is closer to
+This collaboration mode could work in various ways: ways closer to
  sharing a story on paper or in a written document back and forth. This
  may or may not involve using Git or GitHub.
 
