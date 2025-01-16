@@ -1,11 +1,11 @@
 # Twine GitHub collaborative story template 🌈
 
- An attempt at making a template repo for collaborative ——synchronous or
- not—— writing on Twine. Aim is get this working for people who don't
- know about Git and GitHub as well as those who do. 
+ This code repository hosts an attempt at making a template for collaborative writing on exported Twine files. It also lists other ways to collaborate through Twine ——synchronously or
+ not: ways that may be suitable for people who don't
+ know about Git and GitHub as well as those who do.
  
- Usage is not limited to GitHub, but can also make use of the Twine --as
- well as other-- editors or working
+ Potential ways to collaborate through code on Twine are far from limited to GitHub. They can also make use of the Twine editor --as
+ well as other editors or working
  suites such as Google's.
 
  ## Welcome 💫
